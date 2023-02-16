@@ -1,4 +1,6 @@
-"# ignore" 
+# ignore
 
 *.exe
+*.o
+
 
