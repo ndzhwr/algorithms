@@ -1,0 +1,3 @@
+101, Mugabo javis, 34.7, 12
+102, Muhire David, 44.8, 23
+103, Kalisa Belyse, 49.9, 23

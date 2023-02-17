@@ -39,7 +39,8 @@ int binarySearch(int arr[], int b, int e, int key)
 int main()
 {
     int arr[] = { 1,20, 23, 45, 80} ;
-    int n  = sizeof(arr) / sizeof(arr[0]);
-    cout << "Position of 45:  "<< binarySearch(arr, 0,n, 45) << endl;
+    int n  = sizeof(arr) / size(arr[0]);
+    cout << n << endl;
+   // cout << "Position of 45:  "<< binarySearch(arr, 0,n, 45) << endl;
     return 0;
 }
