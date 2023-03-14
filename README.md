@@ -1,1 +1,1 @@
-# dsa-cat-prep
+Repo for data structures and algorithms
